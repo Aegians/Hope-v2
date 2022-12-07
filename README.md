@@ -1,2 +1,5 @@
 # Hope-v2
-Maintained 
+Bot Focused On Moderation, Music, Applications & Scrim Management Commands.
+
+- Made By - Aegians
+- NOTE THIS BOT IS DISCORD.JS V13.
